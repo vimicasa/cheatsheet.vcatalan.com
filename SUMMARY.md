@@ -1,6 +1,6 @@
 # Table of contents
 
-* [cheatsheet.vcatalan.com](README.md)
+* [Cheatsheet](README.md)
 
 ## Cloud
 

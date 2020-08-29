@@ -1,2 +1,2 @@
-# cheatsheet.vcatalan.com
+# Cheatsheet
 
