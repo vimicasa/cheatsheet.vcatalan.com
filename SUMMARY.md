@@ -2,10 +2,10 @@
 
 * [cheatsheet.vcatalan.com](README.md)
 
-## Cloud <a id="cloud-1"></a>
+## Cloud
 
-* [AWS](cloud-1/aws.md)
-* [Terraform](cloud-1/terraform.md)
+* [AWS](cloud/aws.md)
+* [Terraform](cloud/terraform.md)
 
 ## Development
 
