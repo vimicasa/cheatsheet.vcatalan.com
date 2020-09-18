@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Cheatsheet](README.md)
+* [Hacking-CTF](hacking-ctf.md)
 
 ## Cloud
 
@@ -18,4 +19,8 @@
 * [Certificates](others/certificates.md)
 * [Cron](others/cron.md)
 * [Logs](others/logs.md)
+
+## Techniques
+
+* [Untitled](techniques/untitled.md)
 
