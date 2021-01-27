@@ -26,6 +26,6 @@ Web to test it: [https://crontab.guru/](https://crontab.guru/)
 #### Examples: 
 
 ```bash
-# 
+30 2 * * 1  # At 02:30 on Monday.
 ```
 
