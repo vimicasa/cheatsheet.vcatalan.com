@@ -9,7 +9,7 @@ description: Screen commands
 #### Commands
 
 ```text
-
+screen -d -m -S name_screen bash -c '/opt/bin/tools/xyz.sh |tee /var/log/tools/xyz.log'
 ```
 
 #### Screen configuracion By Rob Fuller \([https://mobile.twitter.com/mubix/status/1317146837539762176](https://mobile.twitter.com/mubix/status/1317146837539762176)\) 
