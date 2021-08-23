@@ -11,5 +11,8 @@ for i in 8084 9090 10091; do PID=$(lsof -i tcp:$i | grep java | awk '{print $2}'
 
 # Monitoring every 0.1 sec
 while curl -sI -o /dev/null -w "%{http_code}\n" https://example.com; do sleep 0.1; done
+
+#Replace string in sql files 
+find . -name '*.sql' -print0 | xargs -0 sed -i 's/aaaa/bbb/g'
 ```
 

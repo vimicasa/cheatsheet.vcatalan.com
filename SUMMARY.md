@@ -2,15 +2,9 @@
 
 * [Cheatsheet](README.md)
 
-## Cloud
-
-* [AWS](cloud/aws.md)
-* [Terraform](cloud/terraform.md)
-
 ## Development
 
 * [Git](development/git.md)
-* [Golang](development/go.md)
 * [Java](development/java.md)
 
 ## Others
