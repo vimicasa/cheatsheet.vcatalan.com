@@ -1,6 +1,6 @@
 # Bash Kung-fu
 
-```text
+```
 # AND // OR
 true && echo "True" || echo "False" 
 false && echo "True" || echo "False"
@@ -16,3 +16,6 @@ while curl -sI -o /dev/null -w "%{http_code}\n" https://example.com; do sleep 0.
 find . -name '*.sql' -print0 | xargs -0 sed -i 's/aaaa/bbb/g'
 ```
 
+Do nothing script
+
+{% file src="../../.gitbook/assets/do_nothing.py" %}
